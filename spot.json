@@ -1,17 +1,42 @@
-[{
-		"id": "01",
-		"name": "harbariya",
-		"imageUrl": "image01",
-		"description": "beautiful page"
-
-	},
-
-	{
-		"id": "02",
-		"name": "karamjol",
-		"imageUrl": "image02",
-		"description": "ugly page"
-
-	}
-
+[
+{
+"name_en": "Karamjal",
+"name_bn": "করমজল",
+"id": 1
+},
+{
+"name_en": "Harbaria",
+"name_bn": "হারবাড়িয়া",
+"id": 2
+},
+{
+"name_en": "Kalagachia",
+"name_bn": "কলাগাছিয়া",
+"id": 7
+},
+{
+"name_en": "Dobeki",
+"name_bn": "দোবেকি",
+"id": 8
+},
+{
+"name_en": "Andermanik",
+"name_bn": "আন্দারমানিক",
+"id": 9
+},
+{
+"name_en": "Alibanda",
+"name_bn": "আলিবান্দা",
+"id": 10
+},
+{
+"name_en": "Kalabogi",
+"name_bn": "কালাবগী",
+"id": 11
+},
+{
+"name_en": "Shekhertek",
+"name_bn": "শেখেরটেক ইকোট্যুরিজম সেন্টার",
+"id": 12
+}
 ]
