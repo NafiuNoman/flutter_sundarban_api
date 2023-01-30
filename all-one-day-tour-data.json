@@ -1,0 +1,431 @@
+{
+  "startingPoints": [
+    {
+      "id": 1,
+      "pointName": "Mongla",
+      "pointNameBn": "মোংলা",
+      "spots": [
+        {
+          "id": 1,
+          "spotName": "Karamjal",
+          "spotNameBn": "করমজল",
+          "spotDetails": "<p>Karmajal is one of the wonderful visiting place in Sundarban. A ranger station deep in the forest that serves as a deer-breeding center.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+          "entryTime": [
+            {
+              "id": 1,
+              "time_slot": "09:00 am-01:00 am",
+              "spot_id": 1
+            },
+            {
+              "id": 2,
+              "time_slot": "01:00 pm-05:00 pm",
+              "spot_id": 1
+            }
+          ],
+          "touristType": [
+            {
+              "tourist_type_with_fee": "Local Tourist(৳ 40.00 + VAT 15%= ৳ 46.00)",
+              "tourist_type_with_fee_bn": "দেশী পর্যটক(৳ 40.00 + VAT 15%= ৳ 46.00)",
+              "type": "Local Tourist",
+              "typeBn": "দেশী পর্যটক",
+              "netPrice": "40.00",
+              "vat": "15.00",
+              "totalPrice": "46.00",
+              "id": 1
+            },
+            {
+              "tourist_type_with_fee": "Local Students(৳ 20.00 + VAT 15%= ৳ 23.00)",
+              "tourist_type_with_fee_bn": "দেশী ছাত্র/ছাত্রী (৳ 20.00 + VAT 15%= ৳ 23.00)",
+              "type": "Local Students",
+              "typeBn": "দেশী ছাত্র/ছাত্রী ",
+              "netPrice": "20.00",
+              "vat": "15.00",
+              "totalPrice": "23.00",
+              "id": 2
+            },
+            {
+              "tourist_type_with_fee": "Foreign Tourist(৳ 500.00 + VAT 15%= ৳ 575.00)",
+              "tourist_type_with_fee_bn": "বিদেশী পর্যটক(৳ 500.00 + VAT 15%= ৳ 575.00)",
+              "type": "Foreign Tourist",
+              "typeBn": "বিদেশী পর্যটক",
+              "netPrice": "500.00",
+              "vat": "15.00",
+              "totalPrice": "575.00",
+              "id": 3
+            },
+            {
+              "tourist_type_with_fee": "Under Age (Below 12 years)(৳ 20.00 + VAT 15%= ৳ 23.00)",
+              "tourist_type_with_fee_bn": "অপ্রাপ্ত বয়স্ক (১২ বছরের নীচে )(৳ 20.00 + VAT 15%= ৳ 23.00)",
+              "type": "Under Age (Below 12 years)",
+              "typeBn": "অপ্রাপ্ত বয়স্ক (১২ বছরের নীচে )",
+              "netPrice": "20.00",
+              "vat": "15.00",
+              "totalPrice": "23.00",
+              "id": 4
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "spotName": "Harbaria",
+          "spotNameBn": "হারবাড়িয়া",
+          "spotDetails": "<p>Harbaria, house of Tiger most attractive and dangerous place in Sundarban. Here found the Royel Bengal Tiger, birds &amp; Spotted deer etc.</p>",
+          "entryTime": [
+            {
+              "id": 1,
+              "time_slot": "09:00 am-11:00 am",
+              "spot_id": 2
+            },
+            {
+              "id": 2,
+              "time_slot": "11:30 am-01:00 pm",
+              "spot_id": 2
+            },
+            {
+              "id": 2,
+              "time_slot": "03:30 pm-05:00 pm",
+              "spot_id": 2
+            }
+          ],
+          "touristType": [
+            {
+              "tourist_type_with_fee": "Local Tourist(৳ 150.00 + VAT 15%= ৳ 172.00)",
+              "tourist_type_with_fee_bn": "দেশী পর্যটক(৳ 150.00 + VAT 15%= ৳ 172.00)",
+              "type": "Local Tourist",
+              "typeBn": "দেশী পর্যটক",
+              "netPrice": "150.00",
+              "vat": "15.00",
+              "totalPrice": "172.00",
+              "id": 1
+            },
+            {
+              "tourist_type_with_fee": "Local Students(৳ 30.00 + VAT 15%= ৳ 34.00)",
+              "tourist_type_with_fee_bn": "দেশী ছাত্র/ছাত্রী (৳ 30.00 + VAT 15%= ৳ 34.00)",
+              "type": "Local Students",
+              "typeBn": "দেশী ছাত্র/ছাত্রী ",
+              "netPrice": "30.00",
+              "vat": "15.00",
+              "totalPrice": "34.00",
+              "id": 2
+            },
+            {
+              "tourist_type_with_fee": "Foreign Tourist(৳ 2,000.00 + VAT 15%= ৳ 2,300.00)",
+              "tourist_type_with_fee_bn": "বিদেশী পর্যটক(৳ 2,000.00 + VAT 15%= ৳ 2,300.00)",
+              "type": "Foreign Tourist",
+              "typeBn": "বিদেশী পর্যটক",
+              "netPrice": "2000.00",
+              "vat": "15.00",
+              "totalPrice": "2300.00",
+              "id": 3
+            },
+            {
+              "tourist_type_with_fee": "Under Age (Below 12 years)(৳ 30.00 + VAT 15%= ৳ 34.00)",
+              "tourist_type_with_fee_bn": "অপ্রাপ্ত বয়স্ক (১২ বছরের নীচে )(৳ 30.00 + VAT 15%= ৳ 34.00)",
+              "type": "Under Age (Below 12 years)",
+              "typeBn": "অপ্রাপ্ত বয়স্ক (১২ বছরের নীচে )",
+              "netPrice": "30.00",
+              "vat": "15.00",
+              "totalPrice": "34.00",
+              "id": 4
+            },
+            {
+              "tourist_type_with_fee": "Local Researcher(৳ 40.00 + VAT 15%= ৳ 46.00)",
+              "tourist_type_with_fee_bn": "দেশী গবেষক(৳ 40.00 + VAT 15%= ৳ 46.00)",
+              "type": "Local Researcher",
+              "typeBn": "দেশী গবেষক",
+              "netPrice": "40.00",
+              "vat": "15.00",
+              "totalPrice": "46.00",
+              "id": 6
+            },
+            {
+              "tourist_type_with_fee": "Foreign Researcher(৳ 500.00 + VAT 15%= ৳ 575.00)",
+              "tourist_type_with_fee_bn": "বিদেশী গবেষক(৳ 500.00 + VAT 15%= ৳ 575.00)",
+              "type": "Foreign Researcher",
+              "typeBn": "বিদেশী গবেষক",
+              "netPrice": "500.00",
+              "vat": "15.00",
+              "totalPrice": "575.00",
+              "id": 7
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "spotName": "Alibanda",
+          "spotNameBn": "আলিবান্দা",
+          "spotDetails": "<p>Alibanda</p>",
+          "entryTime": [
+            {
+              "id": 1,
+              "time_slot": "09:00 am-11:00 am",
+              "spot_id": 10
+            },
+            {
+              "id": 2,
+              "time_slot": "11:30 am-01:00 pm",
+              "spot_id": 10
+            }
+          ],
+          "touristType": [
+            {
+              "tourist_type_with_fee": "Local Tourist(৳ 150.00 + VAT 15%= ৳ 172.00)",
+              "tourist_type_with_fee_bn": "দেশী পর্যটক(৳ 150.00 + VAT 15%= ৳ 172.00)",
+              "type": "Local Tourist",
+              "typeBn": "দেশী পর্যটক",
+              "netPrice": "150.00",
+              "vat": "15.00",
+              "totalPrice": "172.00",
+              "id": 1
+            },
+            {
+              "tourist_type_with_fee": "Local Students(৳ 30.00 + VAT 15%= ৳ 34.00)",
+              "tourist_type_with_fee_bn": "দেশী ছাত্র/ছাত্রী (৳ 30.00 + VAT 15%= ৳ 34.00)",
+              "type": "Local Students",
+              "typeBn": "দেশী ছাত্র/ছাত্রী ",
+              "netPrice": "30.00",
+              "vat": "15.00",
+              "totalPrice": "34.00",
+              "id": 2
+            },
+            {
+              "tourist_type_with_fee": "Foreign Tourist(৳ 2,000.00 + VAT 15%= ৳ 2,300.00)",
+              "tourist_type_with_fee_bn": "বিদেশী পর্যটক(৳ 2,000.00 + VAT 15%= ৳ 2,300.00)",
+              "type": "Foreign Tourist",
+              "typeBn": "বিদেশী পর্যটক",
+              "netPrice": "2000.00",
+              "vat": "15.00",
+              "totalPrice": "2300.00",
+              "id": 3
+            },
+            {
+              "tourist_type_with_fee": "Under Age (Below 12 years)(৳ 30.00 + VAT 15%= ৳ 34.00)",
+              "tourist_type_with_fee_bn": "অপ্রাপ্ত বয়স্ক (১২ বছরের নীচে )(৳ 30.00 + VAT 15%= ৳ 34.00)",
+              "type": "Under Age (Below 12 years)",
+              "typeBn": "অপ্রাপ্ত বয়স্ক (১২ বছরের নীচে )",
+              "netPrice": "30.00",
+              "vat": "15.00",
+              "totalPrice": "34.00",
+              "id": 4
+            },
+            {
+              "tourist_type_with_fee": "Local Researcher(৳ 40.00 + VAT 15%= ৳ 46.00)",
+              "tourist_type_with_fee_bn": "দেশী গবেষক(৳ 40.00 + VAT 15%= ৳ 46.00)",
+              "type": "Local Researcher",
+              "typeBn": "দেশী গবেষক",
+              "netPrice": "40.00",
+              "vat": "15.00",
+              "totalPrice": "46.00",
+              "id": 6
+            },
+            {
+              "tourist_type_with_fee": "Foreign Researcher(৳ 500.00 + VAT 15%= ৳ 575.00)",
+              "tourist_type_with_fee_bn": "বিদেশী গবেষক(৳ 500.00 + VAT 15%= ৳ 575.00)",
+              "type": "Foreign Researcher",
+              "typeBn": "বিদেশী গবেষক",
+              "netPrice": "500.00",
+              "vat": "15.00",
+              "totalPrice": "575.00",
+              "id": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pointName": "Burigoalini/Munsiganj",
+      "pointNameBn": "বুড়িগোয়ালিনী/মুন্সিগঞ্জ",
+      "spots": [
+        {
+          "id": 7,
+          "spotName": "Kalagachia",
+          "spotNameBn": "কলাগাছিয়া",
+          "spotDetails": "<p>Shundorban is the lungs of Bangladesh and we the people of Bangladesh must take care this beautiful and magnificent natural gift. I appreciate lately The forest department did a splendid job to ensure the mangrove forest can rest peacefully and breed itself. This is the tiger's den but we keep staying greedy and kill them. Let us be human and allow this natural resources to stay on their own course and at the end it will return back as benifit for mankind.</p>",
+          "entryTime": [
+            {
+              "id": 1,
+              "time_slot": "11:30 am-01:00 pm",
+              "spot_id": 7
+            }
+          ],
+          "touristType": [
+            {
+              "tourist_type_with_fee": "Local Tourist(৳ 40.00 + VAT 15%= ৳ 46.00)",
+              "tourist_type_with_fee_bn": "দেশী পর্যটক(৳ 40.00 + VAT 15%= ৳ 46.00)",
+              "type": "Local Tourist",
+              "typeBn": "দেশী পর্যটক",
+              "netPrice": "40.00",
+              "vat": "15.00",
+              "totalPrice": "46.00",
+              "id": 1
+            },
+            {
+              "tourist_type_with_fee": "Local Students(৳ 20.00 + VAT 15%= ৳ 23.00)",
+              "tourist_type_with_fee_bn": "দেশী ছাত্র/ছাত্রী (৳ 20.00 + VAT 15%= ৳ 23.00)",
+              "type": "Local Students",
+              "typeBn": "দেশী ছাত্র/ছাত্রী ",
+              "netPrice": "20.00",
+              "vat": "15.00",
+              "totalPrice": "23.00",
+              "id": 2
+            },
+            {
+              "tourist_type_with_fee": "Foreign Tourist(৳ 500.00 + VAT 15%= ৳ 575.00)",
+              "tourist_type_with_fee_bn": "বিদেশী পর্যটক(৳ 500.00 + VAT 15%= ৳ 575.00)",
+              "type": "Foreign Tourist",
+              "typeBn": "বিদেশী পর্যটক",
+              "netPrice": "500.00",
+              "vat": "15.00",
+              "totalPrice": "575.00",
+              "id": 3
+            },
+            {
+              "tourist_type_with_fee": "Under Age (Below 12 years)(৳ 20.00 + VAT 15%= ৳ 23.00)",
+              "tourist_type_with_fee_bn": "অপ্রাপ্ত বয়স্ক (১২ বছরের নীচে )(৳ 20.00 + VAT 15%= ৳ 23.00)",
+              "type": "Under Age (Below 12 years)",
+              "typeBn": "অপ্রাপ্ত বয়স্ক (১২ বছরের নীচে )",
+              "netPrice": "20.00",
+              "vat": "15.00",
+              "totalPrice": "23.00",
+              "id": 4
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "spotName": "Dobeki",
+          "spotNameBn": "দোবেকি",
+          "spotDetails": "<p>The Sundarbans is a vast forest on the coast of the Bay of Bengal, one of the natural wonders of the world.</p>",
+          "entryTime": [
+            {
+              "id": 1,
+              "time_slot": "08:00 am-10:00 am",
+              "spot_id": 8
+            },
+            {
+              "id": 2,
+              "time_slot": "11:30 am-12:30 pm",
+              "spot_id": 8
+            }
+          ],
+          "touristType": [
+            {
+              "tourist_type_with_fee": "Local Tourist(৳ 150.00 + VAT 15%= ৳ 172.00)",
+              "tourist_type_with_fee_bn": "দেশী পর্যটক(৳ 150.00 + VAT 15%= ৳ 172.00)",
+              "type": "Local Tourist",
+              "typeBn": "দেশী পর্যটক",
+              "netPrice": "150.00",
+              "vat": "15.00",
+              "totalPrice": "172.00",
+              "id": 1
+            },
+            {
+              "tourist_type_with_fee": "Local Students(৳ 30.00 + VAT 15%= ৳ 34.00)",
+              "tourist_type_with_fee_bn": "দেশী ছাত্র/ছাত্রী (৳ 30.00 + VAT 15%= ৳ 34.00)",
+              "type": "Local Students",
+              "typeBn": "দেশী ছাত্র/ছাত্রী ",
+              "netPrice": "30.00",
+              "vat": "15.00",
+              "totalPrice": "34.00",
+              "id": 2
+            },
+            {
+              "tourist_type_with_fee": "Foreign Tourist(৳ 2,000.00 + VAT 15%= ৳ 2,300.00)",
+              "tourist_type_with_fee_bn": "বিদেশী পর্যটক(৳ 2,000.00 + VAT 15%= ৳ 2,300.00)",
+              "type": "Foreign Tourist",
+              "typeBn": "বিদেশী পর্যটক",
+              "netPrice": "2000.00",
+              "vat": "15.00",
+              "totalPrice": "2300.00",
+              "id": 3
+            },
+            {
+              "tourist_type_with_fee": "Under Age (Below 12 years)(৳ 30.00 + VAT 15%= ৳ 34.00)",
+              "tourist_type_with_fee_bn": "অপ্রাপ্ত বয়স্ক (১২ বছরের নীচে )(৳ 30.00 + VAT 15%= ৳ 34.00)",
+              "type": "Under Age (Below 12 years)",
+              "typeBn": "অপ্রাপ্ত বয়স্ক (১২ বছরের নীচে )",
+              "netPrice": "30.00",
+              "vat": "15.00",
+              "totalPrice": "34.00",
+              "id": 4
+            },
+            {
+              "tourist_type_with_fee": "Local Researcher(৳ 40.00 + VAT 15%= ৳ 46.00)",
+              "tourist_type_with_fee_bn": "দেশী গবেষক(৳ 40.00 + VAT 15%= ৳ 46.00)",
+              "type": "Local Researcher",
+              "typeBn": "দেশী গবেষক",
+              "netPrice": "40.00",
+              "vat": "15.00",
+              "totalPrice": "46.00",
+              "id": 6
+            },
+            {
+              "tourist_type_with_fee": "Foreign Researcher(৳ 500.00 + VAT 15%= ৳ 575.00)",
+              "tourist_type_with_fee_bn": "বিদেশী গবেষক(৳ 500.00 + VAT 15%= ৳ 575.00)",
+              "type": "Foreign Researcher",
+              "typeBn": "বিদেশী গবেষক",
+              "netPrice": "500.00",
+              "vat": "15.00",
+              "totalPrice": "575.00",
+              "id": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "pointName": "Khulna",
+      "pointNameBn": "খুলনা",
+      "spots": [
+        {
+          "id": 11,
+          "spotName": "Kalabogi",
+          "spotNameBn": "কালাবগী",
+          "spotDetails": "<p>Kalabogi Ecotourism Center</p>",
+          "entryTime": [
+            {
+              "id": 1,
+              "time_slot": "08:00 am-10:00 am",
+              "spot_id": 11
+            },
+            {
+              "id": 2,
+              "time_slot": "11:30 am-12:30 pm",
+              "spot_id": 11
+            },
+            {
+              "id": 2,
+              "time_slot": "01:30 am-03:30 pm",
+              "spot_id": 11
+            },
+            {
+              "id": 2,
+              "time_slot": "04:30 am-06:30 pm",
+              "spot_id": 11
+            }
+          ],
+          "touristType": [
+            {
+              "tourist_type_with_fee": "Local Tourist(৳ 40.00 + VAT 15%= ৳ 46.00)",
+              "tourist_type_with_fee_bn": "দেশী পর্যটক(৳ 40.00 + VAT 15%= ৳ 46.00)",
+              "type": "Local Tourist",
+              "typeBn": "দেশী পর্যটক",
+              "netPrice": "40.00",
+              "vat": "15.00",
+              "totalPrice": "46.00",
+              "id": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "guardFee": {
+    "id": "3",
+    "fee": "500.00",
+    "vat": "00.00",
+    "total_fee": "500.00"
+  }
+}
